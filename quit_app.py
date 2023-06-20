@@ -3,9 +3,9 @@ import pandas as pd
 from wordcloud import WordCloud, STOPWORDS
 import matplotlib.pyplot as plt
 from nltk.stem import WordNetLemmatizer
-import seaborn as sns
-from sklearn.feature_extraction.text import TfidfVectorizer
-from collections import Counter
+# import seaborn as sns
+# from sklearn.feature_extraction.text import TfidfVectorizer
+# from collections import Counter
 import json
 import plotly.express as px
 import re
