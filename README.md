@@ -1,6 +1,6 @@
 # youtube_quitting_data
 
-### Link to interactive app: https://youtube-quitting-data.streamlit.app/
+### Link to interactive app: https://youtube-quitting-dashboard.streamlit.app/
 ## Summary
 
 Purpose is to collect and analyze transcripts from YouTube videos explaining why they quit their jobs. Techniques will include text natural language processing tasks such as question answering, text summarization, and visualizing text data. First draft is to focus on the pipeline running, with further experimentation to address runtime and code clarity. 
