@@ -12,6 +12,11 @@ import collections
 import spacy
 from nltk import word_tokenize, pos_tag
 from nltk.stem import WordNetLemmatizer
+import nltk
+nltk.download('wordnet')
+nltk.download('brown')
+nltk.download('punkt')
+nltk.download('averaged_perceptron_tagger')
 import json
 import plotly.express as px
 import re
